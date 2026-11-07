@@ -982,7 +982,8 @@ EndStunPause
    1,R,J
    5,R
    6,R,J
-  30,R,D
+  19,R,D
+  11,L,D
    1,R,J
    1,R,K
    1,R,J
@@ -993,26 +994,30 @@ EndStunPause
    1,R,K
    1,R,J
    1,R,K
-   5,R,J
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,K
+   1,R,K
    5,R
-   7,R,J
-  15,J
-   7,R,K,G
-   1,J
-   2,K,G
-  13,L,K
-  14,L,J
-  15,K
-  14,J
-  12,K
    2,R,K
-   1,J
-  18,R,J
-  17,R,K
-  27,R,D
+   1,K
+  14,R,K
+  15,L,J
+  15,L,K
+  15,J
+  15,K
+  11,J
+   4,R,J
+  16,R,K
+  16,R,J
+  28,R,D
    1,R,J
-   5,R
-MidwayChapterTime: 2:48.725(9925)
+   4,R
+MidwayChapterTime: 2:48.589(9917)
   40
 
 #lvl_b-02
