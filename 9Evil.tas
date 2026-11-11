@@ -1228,22 +1228,63 @@ EndRepeat
   40
 
 #lvl_b-06
-# wip
    9,R,G
    1,R
    1,R,J,G
   16,R,J
-  44,R,J,G
-  25,D,G
-   5,R,D,G
-  10,D,G
+  47,R,J,G
+  30,D,G
   20,L,G
   70,D,G
   14,R,D,G
   14,R,G
-  32,R,G
-   1,R
-   7,L,G
+  33,R,G
+  25,J,G
+   5,L,G
+  20,G
+   4,R,G
+  52,G
+   7,J,G
+   4,R,J,G
   10,R,G
-   5,R,D
-   9,L,D
+   6,G
+  12,L,J,G
+  16,L,G
+  12,R,G
+   3,R,J,G
+   8,R,K,G
+   1,R,G
+  22,R,J,G
+  40,R,D,G
+  12,R,J,G
+  40,D,G
+  20,L,G
+  25,R,J,G
+   6,R,K,G
+   6,R,G
+   1,R
+   5,R,D,J
+   1,R,K,G
+   7,R,D
+  45,R,J,G
+  10,L,G
+   2,R,G
+  10,J
+   7,R,K,G
+  12,R
+  11,R,D
+   1,R,J
+  28,R,G
+   4,G
+   3,R,G
+   8,L,J,G
+   3,R,J,G
+   5,R,G
+  12,R,J,G
+   8,G
+   1,R
+   8,R,D,J
+  31,R,X,G
+   1,R,J,G
+   2,R,G
+# 3:43.448(13144)
